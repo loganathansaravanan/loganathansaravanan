@@ -32,7 +32,7 @@ Open to networking and collaborations, I am keen on connecting with professional
 
 ### Contact me
 
-[<img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/instagram-new.png" alt="instagram-new" target='_blank'/>(https://www.instagram.com/loga_be/)]
+[<img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/instagram-new.png" alt="instagram-new" target='_blank'/>](https://www.instagram.com/loga_be/)
 
 
 
