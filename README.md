@@ -1,38 +1,59 @@
+# 👋 Hi, I'm Loganathan  
+### **Frontend Developer | React   
 
+I build pixel-perfect, interactive, and responsive web applications with React. Passionate about clean code  
 
-<!--
-**loganathansaravanan/loganathansaravanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ **Tech Stack**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there 👋
+### **Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
-### I am Loganathan
+### **State Management & Tools**  
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 
-Hello, I'm deeply interested in Python and web application development. Currently I am engineering collage student.
+### **Testing & Deployment**  
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-My focus is on honing my Python skills and delving into web development. I believe in continuous learning and am eager to apply my knowledge to real-world projects.
+---
 
-Open to networking and collaborations, I am keen on connecting with professionals in the field. Let's explore opportunities and share insights.
+## 🚀 **Featured Projects**  
 
-### Skills
+### 1. **[Project Name](https://github.com/yourusername/project-repo)**  
+   - A responsive [describe project] built with **React, TypeScript, and Tailwind CSS**.  
+   - Features: [key feature 1], [key feature 2].  
+   - ![Live Demo](https://img.shields.io/badge/Live_Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)  
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> <img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/python.png" alt="python"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/> <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/> <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo.png" alt="external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-shadow-tal-revivo"/> <img width="48" height="48" src="https://img.icons8.com/external-those-icons-flat-those-icons/48/external-Linux-logos-and-brands-those-icons-flat-those-icons.png" alt="external-Linux-logos-and-brands-those-icons-flat-those-icons"/>
+### 2. **[Project Name](https://github.com/yourusername/project-repo)**  
+   - [Brief description].  
+   - Tech: React.  
 
+---
 
-### Contact me
+## 📈 **GitHub Stats**  
 
-[<img width="64" height="64" src="https://img.icons8.com/cute-clipart/64/instagram-new.png" alt="instagram-new" target='_blank'/>](https://www.instagram.com/loga_be/)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
 
+---
 
+## 📫 **Let's Connect!**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/loganathan-s-24a0032a3/))
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://yourportfolio.com](https://my-portfolio-mu-eight-24.vercel.app/))
+
+ 
